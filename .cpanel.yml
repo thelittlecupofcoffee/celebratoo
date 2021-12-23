@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/essam790/public_html/hbl/celebratoo/laravel 
+    - export DEPLOYPATH=/home/essam790/public_html/hbl/celebratoo/laravel/
     - /bin/cp -R images $DEPLOYPATHs
