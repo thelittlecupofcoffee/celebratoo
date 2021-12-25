@@ -14,5 +14,5 @@ use App\Http\Controllers\LinksController;
 |
 */
 Route::get('/', function () {
-    return view('welcome');
+    return view('laravel/welcome');
 });
